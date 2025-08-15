@@ -1,0 +1,35 @@
+/*config Gerais*/
+section{
+    margin-top: 0px auto;
+
+}
+/*config do formulario*/
+.cadesafio2{
+    width: 300px;
+    margin: 0px auto;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.cadesafio2 input{
+    margin: 5px auto;
+    width: 100%;
+    padding: 5px 0;
+}
+.cadesafio2 button{
+    width: 30%;
+    margin: 0 10%;
+    background-color: rgb(158, 158, 158);
+    font-weight: bold;
+    font-size: 15px;
+}
+label{
+    float: left;
+
+}
+h2{
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    font-size: 50px;
+
+}
